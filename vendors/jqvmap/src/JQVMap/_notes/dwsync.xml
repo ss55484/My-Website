@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="applyTransform.js" server="personal.mywebclasssite.com" local="131686333862685611" remote="131692680600000000" Dst="2" />
+<file name="bindZoomButtons.js" server="personal.mywebclasssite.com" local="131686333862695641" remote="131692680600000000" Dst="2" />
+<file name="deselect.js" server="personal.mywebclasssite.com" local="131686333862852005" remote="131692680600000000" Dst="2" />
+<file name="getCountryId.js" server="personal.mywebclasssite.com" local="131686333863008279" remote="131692680600000000" Dst="2" />
+<file name="getPin.js" server="personal.mywebclasssite.com" local="131686333863008279" remote="131692680600000000" Dst="2" />
+<file name="getPinId.js" server="personal.mywebclasssite.com" local="131686333863164558" remote="131692680600000000" Dst="2" />
+<file name="getPins.js" server="personal.mywebclasssite.com" local="131686333863320803" remote="131692680600000000" Dst="2" />
+<file name="highlight.js" server="personal.mywebclasssite.com" local="131686333863320803" remote="131692680600000000" Dst="2" />
+<file name="isSelected.js" server="personal.mywebclasssite.com" local="131686333863477076" remote="131692680600000000" Dst="2" />
+<file name="makeDraggable.js" server="personal.mywebclasssite.com" local="131686333863698550" remote="131692680600000000" Dst="2" />
+<file name="placePins.js" server="personal.mywebclasssite.com" local="131686333863698550" remote="131692680600000000" Dst="2" />
+<file name="positionPins.js" server="personal.mywebclasssite.com" local="131686333863855284" remote="131692680600000000" Dst="2" />
+<file name="removePin.js" server="personal.mywebclasssite.com" local="131686333864011541" remote="131692680600000000" Dst="2" />
+<file name="removePins.js" server="personal.mywebclasssite.com" local="131686333864011541" remote="131692680600000000" Dst="2" />
+<file name="reset.js" server="personal.mywebclasssite.com" local="131686333864167820" remote="131692680600000000" Dst="2" />
+<file name="resize.js" server="personal.mywebclasssite.com" local="131686333864324082" remote="131692680600000000" Dst="2" />
+<file name="select.js" server="personal.mywebclasssite.com" local="131686333864480361" remote="131692680600000000" Dst="2" />
+<file name="selectIndex.js" server="personal.mywebclasssite.com" local="131686333864480361" remote="131692680600000000" Dst="2" />
+<file name="setBackgroundColor.js" server="personal.mywebclasssite.com" local="131686333864696817" remote="131692680600000000" Dst="2" />
+<file name="setColors.js" server="personal.mywebclasssite.com" local="131686333864696817" remote="131692680600000000" Dst="2" />
+<file name="setNormalizeFunction.js" server="personal.mywebclasssite.com" local="131686333864854257" remote="131692680600000000" Dst="2" />
+<file name="setScale.js" server="personal.mywebclasssite.com" local="131686333865010524" remote="131692680600000000" Dst="2" />
+<file name="setScaleColors.js" server="personal.mywebclasssite.com" local="131686333865010524" remote="131692680600000000" Dst="2" />
+<file name="setValues.js" server="personal.mywebclasssite.com" local="131686333865166798" remote="131692680600000000" Dst="2" />
+<file name="unhighlight.js" server="personal.mywebclasssite.com" local="131686333865323060" remote="131692680600000000" Dst="2" />
+<file name="zoomIn.js" server="personal.mywebclasssite.com" local="131686333865479328" remote="131692680600000000" Dst="2" />
+<file name="zoomOut.js" server="personal.mywebclasssite.com" local="131686333865479328" remote="131692680600000000" Dst="2" />
+</dwsync>

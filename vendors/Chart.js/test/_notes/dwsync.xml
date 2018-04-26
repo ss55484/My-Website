@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="controller.bar.tests.js" server="personal.mywebclasssite.com" local="131686333494220994" remote="131692677000000000" Dst="2" />
+<file name="controller.bubble.tests.js" server="personal.mywebclasssite.com" local="131686333494220994" remote="131692677000000000" Dst="2" />
+<file name="controller.doughnut.tests.js" server="personal.mywebclasssite.com" local="131686333494442439" remote="131692677000000000" Dst="2" />
+<file name="controller.line.tests.js" server="personal.mywebclasssite.com" local="131686333494442439" remote="131692677000000000" Dst="2" />
+<file name="controller.polarArea.tests.js" server="personal.mywebclasssite.com" local="131686333494598729" remote="131692677000000000" Dst="2" />
+<file name="controller.radar.tests.js" server="personal.mywebclasssite.com" local="131686333494754997" remote="131692677000000000" Dst="2" />
+<file name="core.element.tests.js" server="personal.mywebclasssite.com" local="131686333494754997" remote="131692677000000000" Dst="2" />
+<file name="core.layoutService.tests.js" server="personal.mywebclasssite.com" local="131686333495067527" remote="131692677000000000" Dst="2" />
+<file name="core.helpers.tests.js" server="personal.mywebclasssite.com" local="131686333494911623" remote="131692677000000000" Dst="2" />
+<file name="core.legend.tests.js" server="personal.mywebclasssite.com" local="131686333495223795" remote="131692677000000000" Dst="2" />
+<file name="core.plugin.tests.js" server="personal.mywebclasssite.com" local="131686333495223795" remote="131692677000000000" Dst="2" />
+<file name="core.scaleService.tests.js" server="personal.mywebclasssite.com" local="131686333495440262" remote="131692677000000000" Dst="2" />
+<file name="core.title.tests.js" server="personal.mywebclasssite.com" local="131686333495440262" remote="131692677000000000" Dst="2" />
+<file name="defaultConfig.tests.js" server="personal.mywebclasssite.com" local="131686333495597139" remote="131692677000000000" Dst="2" />
+<file name="element.arc.tests.js" server="personal.mywebclasssite.com" local="131686333495753879" remote="131692677000000000" Dst="2" />
+<file name="element.line.tests.js" server="personal.mywebclasssite.com" local="131686333495909686" remote="131692677000000000" Dst="2" />
+<file name="element.point.tests.js" server="personal.mywebclasssite.com" local="131686333495909686" remote="131692677000000000" Dst="2" />
+<file name="element.rectangle.tests.js" server="personal.mywebclasssite.com" local="131686333496066414" remote="131692677000000000" Dst="2" />
+<file name="mockContext.js" server="personal.mywebclasssite.com" local="131686333496222204" remote="131692677000000000" Dst="2" />
+<file name="scale.category.tests.js" server="personal.mywebclasssite.com" local="131686333496222204" remote="131692677000000000" Dst="2" />
+<file name="scale.linear.tests.js" server="personal.mywebclasssite.com" local="131686333496438672" remote="131692677000000000" Dst="2" />
+<file name="scale.logarithmic.tests.js" server="personal.mywebclasssite.com" local="131686333496438672" remote="131692677000000000" Dst="2" />
+<file name="scale.radialLinear.tests.js" server="personal.mywebclasssite.com" local="131686333496596316" remote="131692677000000000" Dst="2" />
+<file name="scale.time.tests.js" server="personal.mywebclasssite.com" local="131686333496752584" remote="131692677000000000" Dst="2" />
+</dwsync>

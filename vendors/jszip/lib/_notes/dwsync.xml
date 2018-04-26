@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="arrayReader.js" server="personal.mywebclasssite.com" local="131686333872327946" remote="131692680600000000" Dst="2" />
+<file name="base64.js" server="personal.mywebclasssite.com" local="131686333872484213" remote="131692680600000000" Dst="2" />
+<file name="compressedObject.js" server="personal.mywebclasssite.com" local="131686333872484213" remote="131692680600000000" Dst="2" />
+<file name="compressions.js" server="personal.mywebclasssite.com" local="131686333872700670" remote="131692680600000000" Dst="2" />
+<file name="crc32.js" server="personal.mywebclasssite.com" local="131686333872700670" remote="131692680600000000" Dst="2" />
+<file name="dataReader.js" server="personal.mywebclasssite.com" local="131686333872859952" remote="131692680600000000" Dst="2" />
+<file name="defaults.js" server="personal.mywebclasssite.com" local="131686333873172960" remote="131692680600000000" Dst="2" />
+<file name="deprecatedPublicUtils.js" server="personal.mywebclasssite.com" local="131686333873328761" remote="131692680600000000" Dst="2" />
+<file name="flate.js" server="personal.mywebclasssite.com" local="131686333874019056" remote="131692680600000000" Dst="2" />
+<file name="index.js" server="personal.mywebclasssite.com" local="131686333874175847" remote="131692680600000000" Dst="2" />
+<file name="license_header.js" server="personal.mywebclasssite.com" local="131686333874331580" remote="131692680600000000" Dst="2" />
+<file name="nodeBuffer.js" server="personal.mywebclasssite.com" local="131686333874654202" remote="131692680600000000" Dst="2" />
+<file name="nodeBufferReader.js" server="personal.mywebclasssite.com" local="131686333874709361" remote="131692680600000000" Dst="2" />
+<file name="load.js" server="personal.mywebclasssite.com" local="131686333874487859" remote="131692680600000000" Dst="2" />
+<file name="signature.js" server="personal.mywebclasssite.com" local="131686333875021902" remote="131692680600000000" Dst="2" />
+<file name="stringReader.js" server="personal.mywebclasssite.com" local="131686333875021902" remote="131692680600000000" Dst="2" />
+<file name="object.js" server="personal.mywebclasssite.com" local="131686333874865629" remote="131692680600000000" Dst="2" />
+<file name="stringWriter.js" server="personal.mywebclasssite.com" local="131686333875334438" remote="131692680600000000" Dst="2" />
+<file name="support.js" server="personal.mywebclasssite.com" local="131686333875334438" remote="131692680600000000" Dst="2" />
+<file name="uint8ArrayReader.js" server="personal.mywebclasssite.com" local="131686333875490706" remote="131692680600000000" Dst="2" />
+<file name="uint8ArrayWriter.js" server="personal.mywebclasssite.com" local="131686333875707162" remote="131692680600000000" Dst="2" />
+<file name="utf8.js" server="personal.mywebclasssite.com" local="131686333875707162" remote="131692680600000000" Dst="2" />
+<file name="utils.js" server="personal.mywebclasssite.com" local="131686333875864072" remote="131692680600000000" Dst="2" />
+<file name="zipEntries.js" server="personal.mywebclasssite.com" local="131686333876020329" remote="131692680600000000" Dst="2" />
+<file name="zipEntry.js" server="personal.mywebclasssite.com" local="131686333876232211" remote="131692680600000000" Dst="2" />
+</dwsync>
